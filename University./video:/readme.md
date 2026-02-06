@@ -1,0 +1,1 @@
+- [Induction Generator 4 - Use in Wind Turbines with variable Slip Control](https://youtu.be/q3dIDqfCFE0)
