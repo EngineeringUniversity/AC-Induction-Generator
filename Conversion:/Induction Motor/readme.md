@@ -8,6 +8,3 @@ sch: https://www.google.com/search?q=AC+induction+motor+to+generator
 >The generator will produce nameplate current. It will be short-circuit proof (voltage collapses under overload conditions, requiring another DC starting pulse). Induction generators aren't good for starting inductive loads.
 
 https://www.reddit.com/r/ElectricalEngineering/comments/1ajnd5l/converting_an_induction_motor_to_generator/
-
-Guide:
-[HACKED!: Turning an Induction Motor into a Generator?!](https://youtu.be/05qJM-zZ4ng)
